@@ -1,7 +1,0 @@
-House-Price-Prediction/
- ├── data/
- ├── notebooks/
- ├── src/
- ├── README.md
- ├── requirements.txt
- └── house_price_prediction.ipynb
